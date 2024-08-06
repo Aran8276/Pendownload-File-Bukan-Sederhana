@@ -20,3 +20,9 @@ Aplikasi ini memungkinkan pengguna untuk mendownload file dari URL yang diberika
 4. Masukkan URL file yang ingin Anda download di kotak teks "URL".
 5. Masukkan nama file dan lokasi penyimpanan di kotak teks "Nama File".
 6. Klik tombol "Download" untuk memulai proses download.
+
+## Screenshot / Preview
+
+![Screenshot 2024-08-06 145201](https://github.com/user-attachments/assets/272d0dd4-c303-451e-a949-e70c823b344d)
+
+![Screenshot 2024-08-06 145142](https://github.com/user-attachments/assets/d49be8c5-5bb8-4e59-9f45-52c7750b184b)
